@@ -547,7 +547,7 @@ PRODUCT_PACKAGES += \
     libscveObjectSegmentation_stub \
     libscveObjectTracker \
     libscveObjectTracker_stub \
-    libsec-ril \
+    libsec-ril-impl \
     libsensorlistener \
     libsensorndkbridge \
     libskeymaster4device \
